@@ -1,0 +1,9 @@
+{
+  "/alertas/page": "app/alertas/page.js",
+  "/configuracion/page": "app/configuracion/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/pacientes/page": "app/pacientes/page.js",
+  "/page": "app/page.js",
+  "/tratamientos/nuevo/page": "app/tratamientos/nuevo/page.js",
+  "/tratamientos/page": "app/tratamientos/page.js"
+}
